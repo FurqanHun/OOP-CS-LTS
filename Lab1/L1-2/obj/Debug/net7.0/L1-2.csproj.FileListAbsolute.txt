@@ -1,0 +1,15 @@
+D:\Stuff\UNI Assignment Experiments\OOP\Lab1\L1-2\bin\Debug\net7.0\L1-2.exe
+D:\Stuff\UNI Assignment Experiments\OOP\Lab1\L1-2\bin\Debug\net7.0\L1-2.deps.json
+D:\Stuff\UNI Assignment Experiments\OOP\Lab1\L1-2\bin\Debug\net7.0\L1-2.runtimeconfig.json
+D:\Stuff\UNI Assignment Experiments\OOP\Lab1\L1-2\bin\Debug\net7.0\L1-2.dll
+D:\Stuff\UNI Assignment Experiments\OOP\Lab1\L1-2\bin\Debug\net7.0\L1-2.pdb
+D:\Stuff\UNI Assignment Experiments\OOP\Lab1\L1-2\obj\Debug\net7.0\L1-2.csproj.AssemblyReference.cache
+D:\Stuff\UNI Assignment Experiments\OOP\Lab1\L1-2\obj\Debug\net7.0\L1-2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Stuff\UNI Assignment Experiments\OOP\Lab1\L1-2\obj\Debug\net7.0\L1-2.AssemblyInfoInputs.cache
+D:\Stuff\UNI Assignment Experiments\OOP\Lab1\L1-2\obj\Debug\net7.0\L1-2.AssemblyInfo.cs
+D:\Stuff\UNI Assignment Experiments\OOP\Lab1\L1-2\obj\Debug\net7.0\L1-2.csproj.CoreCompileInputs.cache
+D:\Stuff\UNI Assignment Experiments\OOP\Lab1\L1-2\obj\Debug\net7.0\L1-2.dll
+D:\Stuff\UNI Assignment Experiments\OOP\Lab1\L1-2\obj\Debug\net7.0\refint\L1-2.dll
+D:\Stuff\UNI Assignment Experiments\OOP\Lab1\L1-2\obj\Debug\net7.0\L1-2.pdb
+D:\Stuff\UNI Assignment Experiments\OOP\Lab1\L1-2\obj\Debug\net7.0\L1-2.genruntimeconfig.cache
+D:\Stuff\UNI Assignment Experiments\OOP\Lab1\L1-2\obj\Debug\net7.0\ref\L1-2.dll
