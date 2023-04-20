@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Stuff\\UNI Assignment Experiments\\OOP\\Lab1\\L1-2\\L1-2.csproj": {}
+    "D:\\Stuff\\Git Projects\\OOP\\Lab1\\L1-2\\L1-2.csproj": {}
   },
   "projects": {
-    "D:\\Stuff\\UNI Assignment Experiments\\OOP\\Lab1\\L1-2\\L1-2.csproj": {
+    "D:\\Stuff\\Git Projects\\OOP\\Lab1\\L1-2\\L1-2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Stuff\\UNI Assignment Experiments\\OOP\\Lab1\\L1-2\\L1-2.csproj",
+        "projectUniqueName": "D:\\Stuff\\Git Projects\\OOP\\Lab1\\L1-2\\L1-2.csproj",
         "projectName": "L1-2",
-        "projectPath": "D:\\Stuff\\UNI Assignment Experiments\\OOP\\Lab1\\L1-2\\L1-2.csproj",
+        "projectPath": "D:\\Stuff\\Git Projects\\OOP\\Lab1\\L1-2\\L1-2.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "D:\\Stuff\\UNI Assignment Experiments\\OOP\\Lab1\\L1-2\\obj\\",
+        "outputPath": "D:\\Stuff\\Git Projects\\OOP\\Lab1\\L1-2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config"
