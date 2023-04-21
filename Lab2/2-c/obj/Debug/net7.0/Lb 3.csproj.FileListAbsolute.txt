@@ -1,0 +1,15 @@
+D:\Stuff\UNI Assignment Experiments\Lb 3\bin\Debug\net7.0\Lb 3.exe
+D:\Stuff\UNI Assignment Experiments\Lb 3\bin\Debug\net7.0\Lb 3.deps.json
+D:\Stuff\UNI Assignment Experiments\Lb 3\bin\Debug\net7.0\Lb 3.runtimeconfig.json
+D:\Stuff\UNI Assignment Experiments\Lb 3\bin\Debug\net7.0\Lb 3.dll
+D:\Stuff\UNI Assignment Experiments\Lb 3\bin\Debug\net7.0\Lb 3.pdb
+D:\Stuff\UNI Assignment Experiments\Lb 3\obj\Debug\net7.0\Lb 3.csproj.AssemblyReference.cache
+D:\Stuff\UNI Assignment Experiments\Lb 3\obj\Debug\net7.0\Lb 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Stuff\UNI Assignment Experiments\Lb 3\obj\Debug\net7.0\Lb 3.AssemblyInfoInputs.cache
+D:\Stuff\UNI Assignment Experiments\Lb 3\obj\Debug\net7.0\Lb 3.AssemblyInfo.cs
+D:\Stuff\UNI Assignment Experiments\Lb 3\obj\Debug\net7.0\Lb 3.csproj.CoreCompileInputs.cache
+D:\Stuff\UNI Assignment Experiments\Lb 3\obj\Debug\net7.0\Lb 3.dll
+D:\Stuff\UNI Assignment Experiments\Lb 3\obj\Debug\net7.0\refint\Lb 3.dll
+D:\Stuff\UNI Assignment Experiments\Lb 3\obj\Debug\net7.0\Lb 3.pdb
+D:\Stuff\UNI Assignment Experiments\Lb 3\obj\Debug\net7.0\Lb 3.genruntimeconfig.cache
+D:\Stuff\UNI Assignment Experiments\Lb 3\obj\Debug\net7.0\ref\Lb 3.dll

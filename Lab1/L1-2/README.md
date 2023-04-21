@@ -2,6 +2,6 @@
 
 ## Lab Task 01 - Q2
 
-A program that asks the user to enter two numbers, obtains the two  numbers from the user and prints the sum, product, difference and quotient of the two numbers.
+ Write an application that asks the user to enter two numbers, obtains the two numbers from the user and prints the sum, product, difference and quotient of the two numbers.
 
 [FurqanHun Github](https://github.com/FurqanHun)
