@@ -6,6 +6,6 @@ A simple program to sum two integers while demonstrating the use of the `Console
 
 ### Result
 
-![L1-1a](Assets\L1-1a.png)
+![L1-1a](.../Assets/L1-1a.png)
 
 [FurqanHun Github](https://github.com/FurqanHun)
