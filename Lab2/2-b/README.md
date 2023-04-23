@@ -9,4 +9,8 @@ Write a program which takes user’s input for age and on basis of that input gi
 
 Use Switch statement in b Task
 
+### Output
+
+![L2-b](Assets\L2-b.png)
+
 [FurqanHun Github](https://github.com/FurqanHun)

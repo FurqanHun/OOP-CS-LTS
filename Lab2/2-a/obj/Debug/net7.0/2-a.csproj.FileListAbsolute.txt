@@ -13,3 +13,18 @@ D:\Stuff\UNI Assignment Experiments\OOP\Lab2\2-a\obj\Debug\net7.0\refint\2-a.dll
 D:\Stuff\UNI Assignment Experiments\OOP\Lab2\2-a\obj\Debug\net7.0\2-a.pdb
 D:\Stuff\UNI Assignment Experiments\OOP\Lab2\2-a\obj\Debug\net7.0\2-a.genruntimeconfig.cache
 D:\Stuff\UNI Assignment Experiments\OOP\Lab2\2-a\obj\Debug\net7.0\ref\2-a.dll
+D:\Stuff\Git Projects\OOP\Lab2\2-a\bin\Debug\net7.0\2-a.exe
+D:\Stuff\Git Projects\OOP\Lab2\2-a\bin\Debug\net7.0\2-a.deps.json
+D:\Stuff\Git Projects\OOP\Lab2\2-a\bin\Debug\net7.0\2-a.runtimeconfig.json
+D:\Stuff\Git Projects\OOP\Lab2\2-a\bin\Debug\net7.0\2-a.dll
+D:\Stuff\Git Projects\OOP\Lab2\2-a\bin\Debug\net7.0\2-a.pdb
+D:\Stuff\Git Projects\OOP\Lab2\2-a\obj\Debug\net7.0\2-a.csproj.AssemblyReference.cache
+D:\Stuff\Git Projects\OOP\Lab2\2-a\obj\Debug\net7.0\2-a.GeneratedMSBuildEditorConfig.editorconfig
+D:\Stuff\Git Projects\OOP\Lab2\2-a\obj\Debug\net7.0\2-a.AssemblyInfoInputs.cache
+D:\Stuff\Git Projects\OOP\Lab2\2-a\obj\Debug\net7.0\2-a.AssemblyInfo.cs
+D:\Stuff\Git Projects\OOP\Lab2\2-a\obj\Debug\net7.0\2-a.csproj.CoreCompileInputs.cache
+D:\Stuff\Git Projects\OOP\Lab2\2-a\obj\Debug\net7.0\2-a.dll
+D:\Stuff\Git Projects\OOP\Lab2\2-a\obj\Debug\net7.0\refint\2-a.dll
+D:\Stuff\Git Projects\OOP\Lab2\2-a\obj\Debug\net7.0\2-a.pdb
+D:\Stuff\Git Projects\OOP\Lab2\2-a\obj\Debug\net7.0\2-a.genruntimeconfig.cache
+D:\Stuff\Git Projects\OOP\Lab2\2-a\obj\Debug\net7.0\ref\2-a.dll

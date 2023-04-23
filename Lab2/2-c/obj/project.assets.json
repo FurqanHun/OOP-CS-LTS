@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Stuff\\UNI Assignment Experiments\\Lb 3\\Lb 3.csproj",
+      "projectUniqueName": "D:\\Stuff\\Git Projects\\OOP\\Lab2\\2-c\\Lb 3.csproj",
       "projectName": "Lb 3",
-      "projectPath": "D:\\Stuff\\UNI Assignment Experiments\\Lb 3\\Lb 3.csproj",
+      "projectPath": "D:\\Stuff\\Git Projects\\OOP\\Lab2\\2-c\\Lb 3.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "D:\\Stuff\\UNI Assignment Experiments\\Lb 3\\obj\\",
+      "outputPath": "D:\\Stuff\\Git Projects\\OOP\\Lab2\\2-c\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config"

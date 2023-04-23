@@ -4,4 +4,8 @@
 
 Write a program that determines that number entered by user is even or odd
 
+### Output
+
+![L2-a](Assets\L2-a.png)
+
 [FurqanHun Github](https://github.com/FurqanHun)
