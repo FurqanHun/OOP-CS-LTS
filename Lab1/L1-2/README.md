@@ -6,6 +6,6 @@
 
 ### Output
 
-![L1-2](.../Assets/L1-2.png)
+![L1-2](...\Assets\L1-2.png)
 
 [FurqanHun Github](https://github.com/FurqanHun)
