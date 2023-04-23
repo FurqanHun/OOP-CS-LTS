@@ -5,6 +5,6 @@
 Write a C# program that takes an integer as amount of money entered to be drawn. If the amount is less than or equal to current balance, then print message “Amount is available.” And if the amount entered by the user is greater than current balance, then print the message “Amount is not available.”
 ### Output
 
-![L2-c](Assets\L2-c.png)
+![L2-c](../../Assets/L2-c.png)
 
 [FurqanHun Github](https://github.com/FurqanHun)

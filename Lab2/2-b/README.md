@@ -11,6 +11,6 @@ Use Switch statement in b Task
 
 ### Output
 
-![L2-b](Assets\L2-b.png)
+![L2-b](../../Assets/L2-b.png)
 
 [FurqanHun Github](https://github.com/FurqanHun)
