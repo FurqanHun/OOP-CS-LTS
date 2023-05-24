@@ -1,0 +1,15 @@
+D:\Stuff\Git Projects\OOP\Lab3\3-a\bin\Debug\net7.0\3-a.exe
+D:\Stuff\Git Projects\OOP\Lab3\3-a\bin\Debug\net7.0\3-a.deps.json
+D:\Stuff\Git Projects\OOP\Lab3\3-a\bin\Debug\net7.0\3-a.runtimeconfig.json
+D:\Stuff\Git Projects\OOP\Lab3\3-a\bin\Debug\net7.0\3-a.dll
+D:\Stuff\Git Projects\OOP\Lab3\3-a\bin\Debug\net7.0\3-a.pdb
+D:\Stuff\Git Projects\OOP\Lab3\3-a\obj\Debug\net7.0\3-a.csproj.AssemblyReference.cache
+D:\Stuff\Git Projects\OOP\Lab3\3-a\obj\Debug\net7.0\3-a.GeneratedMSBuildEditorConfig.editorconfig
+D:\Stuff\Git Projects\OOP\Lab3\3-a\obj\Debug\net7.0\3-a.AssemblyInfoInputs.cache
+D:\Stuff\Git Projects\OOP\Lab3\3-a\obj\Debug\net7.0\3-a.AssemblyInfo.cs
+D:\Stuff\Git Projects\OOP\Lab3\3-a\obj\Debug\net7.0\3-a.csproj.CoreCompileInputs.cache
+D:\Stuff\Git Projects\OOP\Lab3\3-a\obj\Debug\net7.0\3-a.dll
+D:\Stuff\Git Projects\OOP\Lab3\3-a\obj\Debug\net7.0\refint\3-a.dll
+D:\Stuff\Git Projects\OOP\Lab3\3-a\obj\Debug\net7.0\3-a.pdb
+D:\Stuff\Git Projects\OOP\Lab3\3-a\obj\Debug\net7.0\3-a.genruntimeconfig.cache
+D:\Stuff\Git Projects\OOP\Lab3\3-a\obj\Debug\net7.0\ref\3-a.dll

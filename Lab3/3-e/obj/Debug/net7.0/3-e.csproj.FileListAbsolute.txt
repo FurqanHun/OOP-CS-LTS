@@ -1,0 +1,30 @@
+D:\Stuff\UNI Assignment Experiments\OOP\Lab3\3-e\bin\Debug\net7.0\3-e.exe
+D:\Stuff\UNI Assignment Experiments\OOP\Lab3\3-e\bin\Debug\net7.0\3-e.deps.json
+D:\Stuff\UNI Assignment Experiments\OOP\Lab3\3-e\bin\Debug\net7.0\3-e.runtimeconfig.json
+D:\Stuff\UNI Assignment Experiments\OOP\Lab3\3-e\bin\Debug\net7.0\3-e.dll
+D:\Stuff\UNI Assignment Experiments\OOP\Lab3\3-e\bin\Debug\net7.0\3-e.pdb
+D:\Stuff\UNI Assignment Experiments\OOP\Lab3\3-e\obj\Debug\net7.0\3-e.csproj.AssemblyReference.cache
+D:\Stuff\UNI Assignment Experiments\OOP\Lab3\3-e\obj\Debug\net7.0\3-e.GeneratedMSBuildEditorConfig.editorconfig
+D:\Stuff\UNI Assignment Experiments\OOP\Lab3\3-e\obj\Debug\net7.0\3-e.AssemblyInfoInputs.cache
+D:\Stuff\UNI Assignment Experiments\OOP\Lab3\3-e\obj\Debug\net7.0\3-e.AssemblyInfo.cs
+D:\Stuff\UNI Assignment Experiments\OOP\Lab3\3-e\obj\Debug\net7.0\3-e.csproj.CoreCompileInputs.cache
+D:\Stuff\UNI Assignment Experiments\OOP\Lab3\3-e\obj\Debug\net7.0\3-e.dll
+D:\Stuff\UNI Assignment Experiments\OOP\Lab3\3-e\obj\Debug\net7.0\refint\3-e.dll
+D:\Stuff\UNI Assignment Experiments\OOP\Lab3\3-e\obj\Debug\net7.0\3-e.pdb
+D:\Stuff\UNI Assignment Experiments\OOP\Lab3\3-e\obj\Debug\net7.0\3-e.genruntimeconfig.cache
+D:\Stuff\UNI Assignment Experiments\OOP\Lab3\3-e\obj\Debug\net7.0\ref\3-e.dll
+D:\Stuff\Git Projects\OOP\Lab3\3-e\bin\Debug\net7.0\3-e.exe
+D:\Stuff\Git Projects\OOP\Lab3\3-e\bin\Debug\net7.0\3-e.deps.json
+D:\Stuff\Git Projects\OOP\Lab3\3-e\bin\Debug\net7.0\3-e.runtimeconfig.json
+D:\Stuff\Git Projects\OOP\Lab3\3-e\bin\Debug\net7.0\3-e.dll
+D:\Stuff\Git Projects\OOP\Lab3\3-e\bin\Debug\net7.0\3-e.pdb
+D:\Stuff\Git Projects\OOP\Lab3\3-e\obj\Debug\net7.0\3-e.csproj.AssemblyReference.cache
+D:\Stuff\Git Projects\OOP\Lab3\3-e\obj\Debug\net7.0\3-e.GeneratedMSBuildEditorConfig.editorconfig
+D:\Stuff\Git Projects\OOP\Lab3\3-e\obj\Debug\net7.0\3-e.AssemblyInfoInputs.cache
+D:\Stuff\Git Projects\OOP\Lab3\3-e\obj\Debug\net7.0\3-e.AssemblyInfo.cs
+D:\Stuff\Git Projects\OOP\Lab3\3-e\obj\Debug\net7.0\3-e.csproj.CoreCompileInputs.cache
+D:\Stuff\Git Projects\OOP\Lab3\3-e\obj\Debug\net7.0\3-e.dll
+D:\Stuff\Git Projects\OOP\Lab3\3-e\obj\Debug\net7.0\refint\3-e.dll
+D:\Stuff\Git Projects\OOP\Lab3\3-e\obj\Debug\net7.0\3-e.pdb
+D:\Stuff\Git Projects\OOP\Lab3\3-e\obj\Debug\net7.0\3-e.genruntimeconfig.cache
+D:\Stuff\Git Projects\OOP\Lab3\3-e\obj\Debug\net7.0\ref\3-e.dll

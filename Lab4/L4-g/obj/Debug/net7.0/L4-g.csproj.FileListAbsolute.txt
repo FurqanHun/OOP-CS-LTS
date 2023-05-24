@@ -1,0 +1,15 @@
+D:\Stuff\Git Projects\OOP\Lab4\L4-g\bin\Debug\net7.0\L4-g.exe
+D:\Stuff\Git Projects\OOP\Lab4\L4-g\bin\Debug\net7.0\L4-g.deps.json
+D:\Stuff\Git Projects\OOP\Lab4\L4-g\bin\Debug\net7.0\L4-g.runtimeconfig.json
+D:\Stuff\Git Projects\OOP\Lab4\L4-g\bin\Debug\net7.0\L4-g.dll
+D:\Stuff\Git Projects\OOP\Lab4\L4-g\bin\Debug\net7.0\L4-g.pdb
+D:\Stuff\Git Projects\OOP\Lab4\L4-g\obj\Debug\net7.0\L4-g.csproj.AssemblyReference.cache
+D:\Stuff\Git Projects\OOP\Lab4\L4-g\obj\Debug\net7.0\L4-g.GeneratedMSBuildEditorConfig.editorconfig
+D:\Stuff\Git Projects\OOP\Lab4\L4-g\obj\Debug\net7.0\L4-g.AssemblyInfoInputs.cache
+D:\Stuff\Git Projects\OOP\Lab4\L4-g\obj\Debug\net7.0\L4-g.AssemblyInfo.cs
+D:\Stuff\Git Projects\OOP\Lab4\L4-g\obj\Debug\net7.0\L4-g.csproj.CoreCompileInputs.cache
+D:\Stuff\Git Projects\OOP\Lab4\L4-g\obj\Debug\net7.0\L4-g.dll
+D:\Stuff\Git Projects\OOP\Lab4\L4-g\obj\Debug\net7.0\refint\L4-g.dll
+D:\Stuff\Git Projects\OOP\Lab4\L4-g\obj\Debug\net7.0\L4-g.pdb
+D:\Stuff\Git Projects\OOP\Lab4\L4-g\obj\Debug\net7.0\L4-g.genruntimeconfig.cache
+D:\Stuff\Git Projects\OOP\Lab4\L4-g\obj\Debug\net7.0\ref\L4-g.dll
