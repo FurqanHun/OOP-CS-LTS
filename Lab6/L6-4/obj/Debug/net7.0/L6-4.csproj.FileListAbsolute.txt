@@ -1,0 +1,15 @@
+D:\Stuff\Git Projects\OOP\Lab6\L6-4\bin\Debug\net7.0\L6-4.exe
+D:\Stuff\Git Projects\OOP\Lab6\L6-4\bin\Debug\net7.0\L6-4.deps.json
+D:\Stuff\Git Projects\OOP\Lab6\L6-4\bin\Debug\net7.0\L6-4.runtimeconfig.json
+D:\Stuff\Git Projects\OOP\Lab6\L6-4\bin\Debug\net7.0\L6-4.dll
+D:\Stuff\Git Projects\OOP\Lab6\L6-4\bin\Debug\net7.0\L6-4.pdb
+D:\Stuff\Git Projects\OOP\Lab6\L6-4\obj\Debug\net7.0\L6-4.csproj.AssemblyReference.cache
+D:\Stuff\Git Projects\OOP\Lab6\L6-4\obj\Debug\net7.0\L6-4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Stuff\Git Projects\OOP\Lab6\L6-4\obj\Debug\net7.0\L6-4.AssemblyInfoInputs.cache
+D:\Stuff\Git Projects\OOP\Lab6\L6-4\obj\Debug\net7.0\L6-4.AssemblyInfo.cs
+D:\Stuff\Git Projects\OOP\Lab6\L6-4\obj\Debug\net7.0\L6-4.csproj.CoreCompileInputs.cache
+D:\Stuff\Git Projects\OOP\Lab6\L6-4\obj\Debug\net7.0\L6-4.dll
+D:\Stuff\Git Projects\OOP\Lab6\L6-4\obj\Debug\net7.0\refint\L6-4.dll
+D:\Stuff\Git Projects\OOP\Lab6\L6-4\obj\Debug\net7.0\L6-4.pdb
+D:\Stuff\Git Projects\OOP\Lab6\L6-4\obj\Debug\net7.0\L6-4.genruntimeconfig.cache
+D:\Stuff\Git Projects\OOP\Lab6\L6-4\obj\Debug\net7.0\ref\L6-4.dll
