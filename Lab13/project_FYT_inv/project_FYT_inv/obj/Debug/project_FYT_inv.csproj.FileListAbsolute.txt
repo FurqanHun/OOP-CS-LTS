@@ -1,0 +1,40 @@
+C:\Users\hp\source\repos\project_FYT_inv\project_FYT_inv\obj\Debug\project_FYT_inv.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\project_FYT_inv\project_FYT_inv\obj\Debug\project_FYT_inv.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\source\repos\project_FYT_inv\project_FYT_inv\obj\Debug\project_FYT_inv.AddItem.resources
+C:\Users\hp\source\repos\project_FYT_inv\project_FYT_inv\obj\Debug\project_FYT_inv.Login_Form.resources
+C:\Users\hp\source\repos\project_FYT_inv\project_FYT_inv\obj\Debug\project_FYT_inv.MainMenu.resources
+C:\Users\hp\source\repos\project_FYT_inv\project_FYT_inv\obj\Debug\project_FYT_inv.Properties.Resources.resources
+C:\Users\hp\source\repos\project_FYT_inv\project_FYT_inv\obj\Debug\project_FYT_inv.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\project_FYT_inv\project_FYT_inv\obj\Debug\project_FYT_inv.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\project_FYT_inv\project_FYT_inv\bin\Debug\Product_Info_DB.mdf
+C:\Users\hp\source\repos\project_FYT_inv\project_FYT_inv\bin\Debug\Product_Info_DB_log.ldf
+C:\Users\hp\source\repos\project_FYT_inv\project_FYT_inv\bin\Debug\project_FYT_inv.exe.config
+C:\Users\hp\source\repos\project_FYT_inv\project_FYT_inv\bin\Debug\project_FYT_inv.exe
+C:\Users\hp\source\repos\project_FYT_inv\project_FYT_inv\bin\Debug\project_FYT_inv.pdb
+C:\Users\hp\source\repos\project_FYT_inv\project_FYT_inv\obj\Debug\project_FYT_inv.exe
+C:\Users\hp\source\repos\project_FYT_inv\project_FYT_inv\obj\Debug\project_FYT_inv.pdb
+C:\Users\hp\source\repos\project_FYT_inv\project_FYT_inv\obj\Debug\project_FYT_inv.UpdateItem.resources
+C:\Users\hp\source\repos\project_FYT_inv\project_FYT_inv\obj\Debug\project_FYT_inv.DeleteItem.resources
+C:\Users\hp\source\repos\project_FYT_inv\project_FYT_inv\obj\Debug\project_FYT_inv.ViewItem.resources
+C:\Users\hp\source\repos\project_FYT_inv\project_FYT_inv\bin\Debug\UsersDB.mdf
+C:\Users\hp\source\repos\project_FYT_inv\project_FYT_inv\bin\Debug\UsersDB_log.ldf
+D:\Stuff\Git Projects\OOP\Lab13\project_FYT_inv\project_FYT_inv\bin\Debug\Product_Info_DB.mdf
+D:\Stuff\Git Projects\OOP\Lab13\project_FYT_inv\project_FYT_inv\bin\Debug\Product_Info_DB_log.ldf
+D:\Stuff\Git Projects\OOP\Lab13\project_FYT_inv\project_FYT_inv\bin\Debug\UsersDB.mdf
+D:\Stuff\Git Projects\OOP\Lab13\project_FYT_inv\project_FYT_inv\bin\Debug\UsersDB_log.ldf
+D:\Stuff\Git Projects\OOP\Lab13\project_FYT_inv\project_FYT_inv\bin\Debug\project_FYT_inv.exe.config
+D:\Stuff\Git Projects\OOP\Lab13\project_FYT_inv\project_FYT_inv\bin\Debug\project_FYT_inv.exe
+D:\Stuff\Git Projects\OOP\Lab13\project_FYT_inv\project_FYT_inv\bin\Debug\project_FYT_inv.pdb
+D:\Stuff\Git Projects\OOP\Lab13\project_FYT_inv\project_FYT_inv\obj\Debug\project_FYT_inv.csproj.AssemblyReference.cache
+D:\Stuff\Git Projects\OOP\Lab13\project_FYT_inv\project_FYT_inv\obj\Debug\project_FYT_inv.csproj.SuggestedBindingRedirects.cache
+D:\Stuff\Git Projects\OOP\Lab13\project_FYT_inv\project_FYT_inv\obj\Debug\project_FYT_inv.AddItem.resources
+D:\Stuff\Git Projects\OOP\Lab13\project_FYT_inv\project_FYT_inv\obj\Debug\project_FYT_inv.DeleteItem.resources
+D:\Stuff\Git Projects\OOP\Lab13\project_FYT_inv\project_FYT_inv\obj\Debug\project_FYT_inv.Login_Form.resources
+D:\Stuff\Git Projects\OOP\Lab13\project_FYT_inv\project_FYT_inv\obj\Debug\project_FYT_inv.MainMenu.resources
+D:\Stuff\Git Projects\OOP\Lab13\project_FYT_inv\project_FYT_inv\obj\Debug\project_FYT_inv.Properties.Resources.resources
+D:\Stuff\Git Projects\OOP\Lab13\project_FYT_inv\project_FYT_inv\obj\Debug\project_FYT_inv.UpdateItem.resources
+D:\Stuff\Git Projects\OOP\Lab13\project_FYT_inv\project_FYT_inv\obj\Debug\project_FYT_inv.ViewItem.resources
+D:\Stuff\Git Projects\OOP\Lab13\project_FYT_inv\project_FYT_inv\obj\Debug\project_FYT_inv.csproj.GenerateResource.cache
+D:\Stuff\Git Projects\OOP\Lab13\project_FYT_inv\project_FYT_inv\obj\Debug\project_FYT_inv.csproj.CoreCompileInputs.cache
+D:\Stuff\Git Projects\OOP\Lab13\project_FYT_inv\project_FYT_inv\obj\Debug\project_FYT_inv.exe
+D:\Stuff\Git Projects\OOP\Lab13\project_FYT_inv\project_FYT_inv\obj\Debug\project_FYT_inv.pdb

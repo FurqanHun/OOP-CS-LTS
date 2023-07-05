@@ -1,0 +1,11 @@
+D:\Stuff\Git Projects\OOP\Lab11\L11-1\L11-1\bin\Debug\L11-1.exe.config
+D:\Stuff\Git Projects\OOP\Lab11\L11-1\L11-1\bin\Debug\L11-1.exe
+D:\Stuff\Git Projects\OOP\Lab11\L11-1\L11-1\bin\Debug\L11-1.pdb
+D:\Stuff\Git Projects\OOP\Lab11\L11-1\L11-1\obj\Debug\L11-1.csproj.AssemblyReference.cache
+D:\Stuff\Git Projects\OOP\Lab11\L11-1\L11-1\obj\Debug\L11-1.csproj.SuggestedBindingRedirects.cache
+D:\Stuff\Git Projects\OOP\Lab11\L11-1\L11-1\obj\Debug\L11_1.Form1.resources
+D:\Stuff\Git Projects\OOP\Lab11\L11-1\L11-1\obj\Debug\L11_1.Properties.Resources.resources
+D:\Stuff\Git Projects\OOP\Lab11\L11-1\L11-1\obj\Debug\L11-1.csproj.GenerateResource.cache
+D:\Stuff\Git Projects\OOP\Lab11\L11-1\L11-1\obj\Debug\L11-1.csproj.CoreCompileInputs.cache
+D:\Stuff\Git Projects\OOP\Lab11\L11-1\L11-1\obj\Debug\L11-1.exe
+D:\Stuff\Git Projects\OOP\Lab11\L11-1\L11-1\obj\Debug\L11-1.pdb

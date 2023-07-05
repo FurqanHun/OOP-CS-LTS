@@ -1,0 +1,12 @@
+D:\Stuff\Git Projects\OOP\Lab12\L12-1\L12-1\bin\Debug\L12-1.exe.config
+D:\Stuff\Git Projects\OOP\Lab12\L12-1\L12-1\bin\Debug\L12-1.exe
+D:\Stuff\Git Projects\OOP\Lab12\L12-1\L12-1\bin\Debug\L12-1.pdb
+D:\Stuff\Git Projects\OOP\Lab12\L12-1\L12-1\obj\Debug\L12-1.csproj.AssemblyReference.cache
+D:\Stuff\Git Projects\OOP\Lab12\L12-1\L12-1\obj\Debug\L12-1.csproj.SuggestedBindingRedirects.cache
+D:\Stuff\Git Projects\OOP\Lab12\L12-1\L12-1\obj\Debug\L12_1.Login_Forn.resources
+D:\Stuff\Git Projects\OOP\Lab12\L12-1\L12-1\obj\Debug\L12_1.Properties.Resources.resources
+D:\Stuff\Git Projects\OOP\Lab12\L12-1\L12-1\obj\Debug\L12-1.csproj.GenerateResource.cache
+D:\Stuff\Git Projects\OOP\Lab12\L12-1\L12-1\obj\Debug\L12-1.csproj.CoreCompileInputs.cache
+D:\Stuff\Git Projects\OOP\Lab12\L12-1\L12-1\obj\Debug\L12-1.exe
+D:\Stuff\Git Projects\OOP\Lab12\L12-1\L12-1\obj\Debug\L12-1.pdb
+D:\Stuff\Git Projects\OOP\Lab12\L12-1\L12-1\obj\Debug\L12_1.Registration_Form.resources

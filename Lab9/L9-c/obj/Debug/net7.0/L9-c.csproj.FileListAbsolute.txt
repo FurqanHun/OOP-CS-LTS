@@ -1,0 +1,15 @@
+D:\Stuff\Git Projects\OOP\Lab9\L9-c\bin\Debug\net7.0\L9-c.exe
+D:\Stuff\Git Projects\OOP\Lab9\L9-c\bin\Debug\net7.0\L9-c.deps.json
+D:\Stuff\Git Projects\OOP\Lab9\L9-c\bin\Debug\net7.0\L9-c.runtimeconfig.json
+D:\Stuff\Git Projects\OOP\Lab9\L9-c\bin\Debug\net7.0\L9-c.dll
+D:\Stuff\Git Projects\OOP\Lab9\L9-c\bin\Debug\net7.0\L9-c.pdb
+D:\Stuff\Git Projects\OOP\Lab9\L9-c\obj\Debug\net7.0\L9-c.csproj.AssemblyReference.cache
+D:\Stuff\Git Projects\OOP\Lab9\L9-c\obj\Debug\net7.0\L9-c.GeneratedMSBuildEditorConfig.editorconfig
+D:\Stuff\Git Projects\OOP\Lab9\L9-c\obj\Debug\net7.0\L9-c.AssemblyInfoInputs.cache
+D:\Stuff\Git Projects\OOP\Lab9\L9-c\obj\Debug\net7.0\L9-c.AssemblyInfo.cs
+D:\Stuff\Git Projects\OOP\Lab9\L9-c\obj\Debug\net7.0\L9-c.csproj.CoreCompileInputs.cache
+D:\Stuff\Git Projects\OOP\Lab9\L9-c\obj\Debug\net7.0\L9-c.dll
+D:\Stuff\Git Projects\OOP\Lab9\L9-c\obj\Debug\net7.0\refint\L9-c.dll
+D:\Stuff\Git Projects\OOP\Lab9\L9-c\obj\Debug\net7.0\L9-c.pdb
+D:\Stuff\Git Projects\OOP\Lab9\L9-c\obj\Debug\net7.0\L9-c.genruntimeconfig.cache
+D:\Stuff\Git Projects\OOP\Lab9\L9-c\obj\Debug\net7.0\ref\L9-c.dll
