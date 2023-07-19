@@ -1,0 +1,15 @@
+D:\Stuff\Git Projects\oopAssignment\oopA3\bin\Debug\net7.0\oopA3.exe
+D:\Stuff\Git Projects\oopAssignment\oopA3\bin\Debug\net7.0\oopA3.deps.json
+D:\Stuff\Git Projects\oopAssignment\oopA3\bin\Debug\net7.0\oopA3.runtimeconfig.json
+D:\Stuff\Git Projects\oopAssignment\oopA3\bin\Debug\net7.0\oopA3.dll
+D:\Stuff\Git Projects\oopAssignment\oopA3\bin\Debug\net7.0\oopA3.pdb
+D:\Stuff\Git Projects\oopAssignment\oopA3\obj\Debug\net7.0\oopA3.csproj.AssemblyReference.cache
+D:\Stuff\Git Projects\oopAssignment\oopA3\obj\Debug\net7.0\oopA3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Stuff\Git Projects\oopAssignment\oopA3\obj\Debug\net7.0\oopA3.AssemblyInfoInputs.cache
+D:\Stuff\Git Projects\oopAssignment\oopA3\obj\Debug\net7.0\oopA3.AssemblyInfo.cs
+D:\Stuff\Git Projects\oopAssignment\oopA3\obj\Debug\net7.0\oopA3.csproj.CoreCompileInputs.cache
+D:\Stuff\Git Projects\oopAssignment\oopA3\obj\Debug\net7.0\oopA3.dll
+D:\Stuff\Git Projects\oopAssignment\oopA3\obj\Debug\net7.0\refint\oopA3.dll
+D:\Stuff\Git Projects\oopAssignment\oopA3\obj\Debug\net7.0\oopA3.pdb
+D:\Stuff\Git Projects\oopAssignment\oopA3\obj\Debug\net7.0\oopA3.genruntimeconfig.cache
+D:\Stuff\Git Projects\oopAssignment\oopA3\obj\Debug\net7.0\ref\oopA3.dll

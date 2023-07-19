@@ -1,0 +1,15 @@
+D:\Stuff\Git Projects\oopAssignment\oopA2\obj\Debug\net7.0\oopA2.csproj.AssemblyReference.cache
+D:\Stuff\Git Projects\oopAssignment\oopA2\obj\Debug\net7.0\oopA2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Stuff\Git Projects\oopAssignment\oopA2\obj\Debug\net7.0\oopA2.AssemblyInfoInputs.cache
+D:\Stuff\Git Projects\oopAssignment\oopA2\obj\Debug\net7.0\oopA2.AssemblyInfo.cs
+D:\Stuff\Git Projects\oopAssignment\oopA2\obj\Debug\net7.0\oopA2.csproj.CoreCompileInputs.cache
+D:\Stuff\Git Projects\oopAssignment\oopA2\bin\Debug\net7.0\oopA2.exe
+D:\Stuff\Git Projects\oopAssignment\oopA2\bin\Debug\net7.0\oopA2.deps.json
+D:\Stuff\Git Projects\oopAssignment\oopA2\bin\Debug\net7.0\oopA2.runtimeconfig.json
+D:\Stuff\Git Projects\oopAssignment\oopA2\bin\Debug\net7.0\oopA2.dll
+D:\Stuff\Git Projects\oopAssignment\oopA2\bin\Debug\net7.0\oopA2.pdb
+D:\Stuff\Git Projects\oopAssignment\oopA2\obj\Debug\net7.0\oopA2.dll
+D:\Stuff\Git Projects\oopAssignment\oopA2\obj\Debug\net7.0\refint\oopA2.dll
+D:\Stuff\Git Projects\oopAssignment\oopA2\obj\Debug\net7.0\oopA2.pdb
+D:\Stuff\Git Projects\oopAssignment\oopA2\obj\Debug\net7.0\oopA2.genruntimeconfig.cache
+D:\Stuff\Git Projects\oopAssignment\oopA2\obj\Debug\net7.0\ref\oopA2.dll
